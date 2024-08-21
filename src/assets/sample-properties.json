@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "title": "Cozy Apartment in Downtown",
+      "description": "A beautiful and cozy apartment located in the heart of the city.",
+      "price": 120,
+      "location": "New York",
+      "bedrooms": 2,
+      "amenities": ["WiFi", "Air Conditioning", "Kitchen"],
+      "image": "apartment1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Modern Villa with Pool",
+      "description": "A luxurious villa with a private pool and stunning views.",
+      "price": 300,
+      "location": "Los Angeles",
+      "bedrooms": 4,
+      "amenities": ["Pool", "Gym", "Garden"],
+      "image": "villa1.jpg"
+    }
+]
