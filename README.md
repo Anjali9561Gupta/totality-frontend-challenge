@@ -1,4 +1,4 @@
-# Habit Tracker Project
+# Rental Property Project
  <p> Develop a website using React. The website will replicate a property rental platform with
 essential features, including property listings and booking management. This challenge
 combines coding, UI design, logical thinking, user interaction, and critical problem-solving.</p>
@@ -10,6 +10,7 @@ combines coding, UI design, logical thinking, user interaction, and critical pro
 # Features:
 
   **1. Property Listings:**
+  
 ➔ Display a variety of properties with images, titles, descriptions, prices, and "Book
 Now" buttons.
 
@@ -18,6 +19,7 @@ number of bedrooms, or amenities.
 
 
 **2. Booking Management:**
+
 ➔ Implement a booking management system to allow users to book properties.
 
 ➔ Display a cart section to manage booked properties, showing property details,
@@ -30,6 +32,7 @@ booking dates, and total cost.
 
 **3. Checkout Process:**
 
+
 ➔ Implement a checkout process that calculates the total cost of booked
 properties.
 
@@ -38,6 +41,7 @@ details.
 
 
 **4. Responsive Design:**
+
 ➔ Ensure the website is responsive and works seamlessly on both desktop and
 mobile devices.
 
