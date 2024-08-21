@@ -1,18 +1,20 @@
 # Habit Tracker Project
-  Develop a website using React. The website will replicate a property rental platform with
+ <p> Develop a website using React. The website will replicate a property rental platform with
 essential features, including property listings and booking management. This challenge
-combines coding, UI design, logical thinking, user interaction, and critical problem-solving.
+combines coding, UI design, logical thinking, user interaction, and critical problem-solving.</p>
   
   <br>
   Go Live to -> https://totality-frontend-challenge-nu.vercel.app/
   <br>
 
 # Features:
+
   **1. Property Listings:**
 ➔ Display a variety of properties with images, titles, descriptions, prices, and "Book
 Now" buttons.
 ➔ Implement filters to allow users to sort properties by location, price range,
 number of bedrooms, or amenities.
+
 
 **2. Booking Management:**
 ➔ Implement a booking management system to allow users to book properties.
@@ -20,17 +22,20 @@ number of bedrooms, or amenities.
 booking dates, and total cost.
 ➔ Allow users to increase, decrease, or remove booked properties from the cart.
 ➔ Display real-time updates of the cart total and booking count.
+
 **3. Checkout Process:**
 
 ➔ Implement a checkout process that calculates the total cost of booked
 properties.
 ➔ Allow users to enter booking details, including contact information and payment
 details.
+
 **4. Responsive Design:**
 ➔ Ensure the website is responsive and works seamlessly on both desktop and
 mobile devices.
 ➔ Optimize the layout for different screen sizes to provide an optimal viewing
 experience.
+
 
 
 # Installation and Run:
